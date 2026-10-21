@@ -233,6 +233,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="Spectra/README.md"><img src="Spectra/Spectra.png" height="100"></a>
 <a href="SpectraStash/README.md"><img src="SpectraStash/SpectraStash.png" height="100"></a>
 <a href="SpectriPy/README.md"><img src="SpectriPy/SpectriPy.png" height="100"></a>
+<a href="spiDE/README.md"><img src="spiDE/spiDE.png" height="100"></a>
 <a href="splatter/README.md"><img src="splatter/splatter_monochrome.png" height="100"></a>
 <a href="splicelogic/README.md"><img src="splicelogic/splicelogic.png" height="100"></a>
 <a href="sSNAPPY/README.md"><img src="sSNAPPY/sSNAPPY.png" height="100"></a>

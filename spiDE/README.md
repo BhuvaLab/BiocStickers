@@ -1,6 +1,6 @@
 # The `spiDE` package sticker
 
-* Package Link: [GitHub](https://github.com/BhuvaLab/spiDE) (Bioconductor submission in preparation)
+* Package Link: DOI [10.18129/B9.bioc.spiDE](https://doi.org/doi:10.18129/B9.bioc.spiDE)
 * Maintainer: [Dharmesh Bhuva](https://github.com/bhuvad/)
 
 <img src=spiDE.png height="200">
